@@ -1,5 +1,4 @@
 ## Hi there 👋, I am Mirudula Muralidhar 
-
 <h1 align="center">Hi 👋, I'm Mirudula Muralidhar</h1>
 <h3 align="center">Master's in Business Analyst Candidate at Drexel University</h3>
 
@@ -16,7 +15,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/mirudulamuralidhar/](https://www.linkedin.com/in/mirudulamuralidhar/)
 
 - ⚡ Fun fact **I love listening Podcast and to watch crime thrillers**
-
 (img align="right" alt="Coding" width="400" src="https://verisoft.ai/wp-content/uploads/2022/05/programmer-animation.gif")
 
 
