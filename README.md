@@ -15,8 +15,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/mirudulamuralidhar/](https://www.linkedin.com/in/mirudulamuralidhar/)
 
 - ⚡ Fun fact **I love listening Podcast and to watch crime thrillers**
+- 
 (img align="right" alt="Coding" width="400" src="https://verisoft.ai/wp-content/uploads/2022/05/programmer-animation.gif")
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
